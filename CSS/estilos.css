@@ -1,0 +1,38 @@
+/******************REFERENCIA DE CARACTER********************/
+body{
+  background-color: #92B4EC;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 10%;
+
+  }
+  img:hover{
+    background-color: gold;
+  }
+
+h1{
+  color:blue;
+}
+h3{
+  color:blue;
+}
+.bruno{
+  background-color:blue ;
+}
+/******************REFERENCIA DE CLASE******************/
+.branda{
+
+}
+/*******************REFERENCIA DE ID*******************/
+#branda{
+
+}
+
+/* selectrores de clase pueden ser referenciados multiples veces
+.clase{}*/
+/*selectrores con id se usan con referencia 1 vez sola
+#id{}*/
